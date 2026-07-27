@@ -1,4 +1,5 @@
-# Project 1. Make와 Zapier를 활용한 이메일 자동화 비교
+# Project 1. 
+# Make와 Zapier를 활용한 이메일 자동화 비교
 
 ## 1. 사용한 도구
 
@@ -69,7 +70,9 @@ OpenAI는 이메일 내용을 요약하고 중요도를 분류한다. 응답은 
 
 #### Make 워크플로우 캡처
 
-![Make 워크플로우](이미지 경로 입력)
+<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/a31e53bd-35ff-4a1c-816b-790127146db5" />
+
+
 
 ---
 

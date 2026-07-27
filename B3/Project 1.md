@@ -57,8 +57,7 @@ Gmail - Watch Emails
         ↓
 OpenAI
         ↓
-JSON Parse<img width="640" height="867" alt="스크린샷 2026-07-27 오후 7 46 05" src="https://github.com/user-attachments/assets/f90ec21e-1fb4-4f05-bbd8-e1f60a2329e9" />
-
+JSON Parse
         ↓
 Router
 ├─ 중요도 높음 → Notion → Discord

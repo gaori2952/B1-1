@@ -59,9 +59,11 @@ OpenAI
         ↓
 JSON Parse
         ↓
-Router
-├─ 중요도 높음 → Notion → Discord
-└─ 중요도 보통·낮음 → Notion
+Notion 기록
+        ↓
+조건 분기(FILTER)
+├─ 중요도 높음 → Discord 알림
+└─ 중요도 보통·낮음 → X
 ```
 
 `Watch Emails` 모듈이 설정된 주기마다 Gmail을 확인하고, 새로운 이메일이 발견되면 이메일 정보를 OpenAI 모듈로 전달한다.
@@ -85,9 +87,11 @@ Gmail - New Email
         ↓
 ChatGPT
         ↓
-조건 분기
-├─ 중요도 높음 → Notion → Discord
-└─ 중요도 보통·낮음 → Notion
+Notion 기록
+        ↓
+조건 분기(FIRTER)
+├─ 중요도 높음 → Discord 알림
+└─ 중요도 보통·낮음 → X
 ```
 
 Gmail 트리거가 설정된 주기마다 새로운 이메일을 확인하고, 이메일이 발견되면 ChatGPT 단계로 전달한다.

@@ -1,5 +1,4 @@
-# Project 1. 
-# Make와 Zapier를 활용한 이메일 자동화 비교
+# Project 1.  Make&Zapier 활용 이메일 자동화 
 
 ## 1. 사용한 도구
 

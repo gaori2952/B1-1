@@ -55,7 +55,8 @@ Gmail - Watch Emails
         ↓
 OpenAI
         ↓
-JSON Parse
+JSON Parse<img width="640" height="867" alt="스크린샷 2026-07-27 오후 7 46 05" src="https://github.com/user-attachments/assets/f90ec21e-1fb4-4f05-bbd8-e1f60a2329e9" />
+
         ↓
 Router
 ├─ 중요도 높음 → Notion → Discord
@@ -70,6 +71,7 @@ OpenAI는 이메일 내용을 요약하고 중요도를 분류한다. 응답은 
 
 #### Make 워크플로우 캡처
 
+<img width="1448" height="588" alt="스크린샷 2026-07-27 오후 7 44 40" src="https://github.com/user-attachments/assets/da29462d-b167-453b-b8b4-4b007755f085" />
 
 ---
 
@@ -95,7 +97,8 @@ Zapier에서는 Copilot에 만들고 싶은 자동화 내용을 입력하여 기
 
 #### Zapier 워크플로우 캡처
 
-![Zapier 워크플로우](이미지 경로 입력)
+<img width="640" height="867" alt="스크린샷 2026-07-27 오후 7 46 05" src="https://github.com/user-attachments/assets/3f86ca8e-6366-4767-af8a-a4cd83d03b70" />
+
 
 ---
 
@@ -111,7 +114,9 @@ Make가 설정된 주기에 따라 새로운 이메일을 확인한 후 이메�
 
 #### Make 실행 결과 캡처
 
-![Make 실행 결과](이미지 경로 입력)
+<img width="1638" height="290" alt="스크린샷 2026-07-27 오후 7 57 45" src="https://github.com/user-attachments/assets/fd80003a-5a50-45fb-bedf-0b1bf090dea3" />
+
+<img width="1598" height="1049" alt="스크린샷 2026-07-27 오후 8 00 37" src="https://github.com/user-attachments/assets/65da7b76-93b0-412c-b556-37c6667f14af" />
 
 ---
 
@@ -124,8 +129,10 @@ Zapier가 새로운 이메일을 확인한 후 이메일 내용을 ChatGPT 단�
 모든 이메일이 Notion에 정상적으로 기록되었고, 중요도가 높은 이메일은 Discord에도 알림이 전송되는 것을 확인하였다.
 
 #### Zapier 실행 결과 캡처
+<img width="1627" height="254" alt="스크린샷 2026-07-27 오후 7 49 53" src="https://github.com/user-attachments/assets/66a74037-280e-4cbb-a051-852b20e28fe0" />
+![Uploading 스크린샷 2026-07-27 오후 7.57.45.png…]()
+<img width="1567" height="1040" alt="스크린샷 2026-07-27 오후 7 50 35" src="https://github.com/user-attachments/assets/b09f84e3-d588-45a2-9187-d32df7d1f504" />
 
-![Zapier 실행 결과](이미지 경로 입력)
 
 ---
 
